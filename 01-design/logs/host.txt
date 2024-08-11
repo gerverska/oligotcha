@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 09/13/2023 10:21:41
+New DB name:   /home/gerverska/projects/oligotcha/01-design/db/host
+New DB title:  Host
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000121832 seconds.
+
+

@@ -1,0 +1,1 @@
+ITS4-Fun	MT937128.1	MT937128.1 Pseudotsuga menziesii isolate DM607 internal transcribed spacer 2 and large subunit ribosomal RNA gene, partial sequence	91.304	23	2	0	1	23	138	116	8.80e-06	32.5

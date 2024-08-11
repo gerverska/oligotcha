@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 09/13/2023 10:22:32
+New DB name:   /home/gerverska/projects/oligotcha/02-align/db/silva-lsu-fungi
+New DB title:  SILVA LSU Fungi
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 441502 sequences in 7.05239 seconds.
+
+
